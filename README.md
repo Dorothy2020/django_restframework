@@ -1,5 +1,6 @@
 # django_restframework
  A simple CRUD API for a drink model
+ Tested the APi in PostMan
 
 ![Screenshot from 2023-10-21 08-59-07](https://github.com/Dorothy2020/django_restframework/assets/79142184/0a4a9484-463c-48ea-8b43-b7824e757aa8)
 
